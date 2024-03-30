@@ -8,13 +8,15 @@
 ## Deployment
 This website is hosted on Vercel. You can access the deployed application using the following link:
 
-[Alumni Tracker](https://aashishanand.vercel.app/)
+[portfolio-react](https://portfolio-react-three-sand.vercel.app/)
 
 
 ## Demo
-![demo1](https://github.com/aashish649/portfolio/assets/150827208/66a267c3-bf4c-48a4-ac3f-28874a2247a8.png)
-![demo2](https://github.com/aashish649/portfolio/assets/150827208/526b0297-fdb0-490f-96ee-683a1ab29fd3.png)
-![demo3](https://github.com/aashish649/portfolio/assets/150827208/79bf77fd-1e67-4240-aacb-0953f7c7af88.png)
+![demo1](https://github.com/nehakgg/portfolio_react/assets/107543046/cd8e565b-d15d-423d-870d-a66c18849acc)
+![demo2](https://github.com/nehakgg/portfolio_react/assets/107543046/f800dc8c-26f9-4820-b0aa-f4b10203b461)
+![demo4](https://github.com/nehakgg/portfolio_react/assets/107543046/cd8e565b-d15d-423d-870d-a66c18849acc)
+
+
 
 ## Sections
 - About Me
