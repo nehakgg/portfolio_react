@@ -1,5 +1,5 @@
 # Portfolio
-![alumni-track](https://socialify.git.ci/aashish649/portfolio/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+![alumni-track](https://socialify.git.ci/nehakgg/alumuni-track-4/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 # Welcome to My Portfolio!
 
