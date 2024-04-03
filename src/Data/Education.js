@@ -14,14 +14,14 @@ export const Educations = [
       id: 2,
       logo:anc,
       title: "Higher Secondary school",
-      duration: "2016 - 2018",
+      duration: "2014 - 2016",
       institution: "M.R.D.Intermediate college Meghaul",
     },
     {
       id: 3,
       logo:srv,
       title: "Secondary School Certificate",
-      duration: "2008 - 2016",
+      duration: "2007 - 2014",
       institution: "Vivekananda Central School",
     }
 ]
